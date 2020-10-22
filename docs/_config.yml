@@ -22,8 +22,8 @@ title: DRG - Greybox
 email: e.j.cross@sheffield.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Footer placeholder.
-baseurl: "/drg-greybox/github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://drg-greybox.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: twitter_placeholder
 github_username:  #https://github.com/drg-greybox
 
