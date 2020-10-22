@@ -4,7 +4,7 @@ title:  "Welcome from the DRG"
 date:   2020-10-22 23:56:27 +0100
 categories: introduction
 ---
-Hi, and welcome to our webpage. Hello there! 
+Hi, and welcome to our webpage.
 
 
 <!---
