@@ -6,7 +6,7 @@ layout: page
 title: DRG - Greybox modelling
 subtitle: Placeholder
 show_sidebar: true
-hero_height: is-halfheight
+hero_height: is-medium
 
 ---
 
