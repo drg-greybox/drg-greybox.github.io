@@ -1,9 +1,9 @@
-- name: Pages
+- name: About us
   link: /#
   dropdown:
-    - name: Page With Sidebar
+    - name: Placeholder 1
       link: /page-1/
-    - name: Page No Sidebar
+    - name: Placeholder 2
       link: /page-2/
 - name: Current Research
   link: /research/
