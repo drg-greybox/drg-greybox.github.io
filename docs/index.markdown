@@ -4,6 +4,8 @@
 
 layout: page
 title: DRG - Greybox modelling
+subtitle: Placeholder
+show_sidebar: true
 ---
 
 Hi there, and welcome to our website!
