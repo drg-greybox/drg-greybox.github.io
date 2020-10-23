@@ -4,10 +4,10 @@
 
 layout: page
 title: DRG - Greybox modelling
-#subtitle: Placeholder
+subtitle: Placeholder
 show_sidebar: true
 hero_height: is-medium
 
 ---
 
-Hi there, and welcome to our website! t
+Hi there, and welcome to our website! 
