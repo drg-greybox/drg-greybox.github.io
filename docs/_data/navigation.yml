@@ -5,5 +5,7 @@
       link: /page-1/
     - name: Page No Sidebar
       link: /page-2/
-- name: Blog
-  link: /blog/
+- name: Current Research
+  link: /research/
+- name: Contact us
+  link: /contactus/
