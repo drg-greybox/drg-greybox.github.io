@@ -3,12 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: DRG - Greybox modelling
+title: Grey-box modelling - Dynamics Research Group
 subtitle: Placeholder
 show_sidebar: true
 hero_height: is-medium
 
 ---
+<!---
 
 Led by Professor Elizabeth Cross of the Dynamics Research Group, University of Sheffield, a package of work is on-going for developing grey-box models for problems arising in structural health monitoring (SHM). The concept of grey-box modelling is relatively straight forward - if one considers an entirely physics-based model as a white-box model, and a purely data-driven machine learning as a black box, then grey-box is a combination of the two approaches. The overall objective is to enhance traditional machine learning techniques with physical insight into a system, increasing the inference capabilities of our models. The aim of this website is to provide a central hub for the research of the group, including the latest papers, example code, and other useful material relating to grey-box SHM.
 
@@ -22,4 +23,5 @@ Led by Professor Elizabeth Cross of the Dynamics Research Group, University of S
 
 
 
-Please direct any enquires towards e.j.cross@sheffield.ac.uk. Ablatively, contact details are attached in the *about us* section. 
+Please direct any enquires towards e.j.cross@sheffield.ac.uk. Alternatively, contact details are attached in the *about us* section. 
+-->
