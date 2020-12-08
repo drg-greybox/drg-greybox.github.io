@@ -4,7 +4,6 @@
 
 layout: page
 title: Grey-box modelling - Dynamics Research Group
-subtitle: Placeholder
 show_sidebar: true
 hero_height: is-small
 
