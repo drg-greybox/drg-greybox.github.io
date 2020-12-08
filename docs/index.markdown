@@ -5,7 +5,7 @@
 layout: page
 title: Grey-box modelling - Dynamics Research Group
 show_sidebar: true
-hero_height: is-two-fifths
+hero_height: is-three-fifths
 
 ---
 <!---

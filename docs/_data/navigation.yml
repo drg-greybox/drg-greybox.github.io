@@ -7,5 +7,7 @@
       link: /page-2/
 - name: Current research
   link: /research/
-- name: Contact us
-  link: /contactus/
+- name: Tutorials
+  link: /tutorials/
+  - name: Example code
+  link: /code/
