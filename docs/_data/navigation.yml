@@ -1,13 +1,10 @@
-- name: About us
-  link: /#
-  dropdown:
-    - name: Placeholder 1
-      link: /page-1/
-    - name: Placeholder 2
-      link: /page-2/
-- name: Current research
+- name: About
+  link: /about_us
+- name: Publications
   link: /research/
 - name: Tutorials
   link: /tutorials/
 - name: Example code
   link: /code/
+
+  
