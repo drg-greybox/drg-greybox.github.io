@@ -1,14 +1,14 @@
 - name: About
-  link: /about_us
+  link: /about_us/
 - name: Ongoing research
-  link: /research_overview
+  link: /research_overview/
   dropdown:
     - name: Combing phyiscs-based and machine learning models
-      link: combining_info
+      link: /combining_info/
     - name: Constrained machine learners 
-      link: constrained_info
+      link: /constrained_info/
     - name: Semi-physical modelling
-      link: semiphysical_info
+      link: /semiphysical_info/
 - name: Blog
   link: /tutorials/
 - name: Example code
