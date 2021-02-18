@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Dynamics Research Group
-link: /drgwebsite/
+tagline: test
+#link: /drgwebsite/
 email: e.j.cross@sheffield.ac.uk
 description: >
   Enhancing the predictive capabilities of machine learners used in structural dynamics through the incorporation of physics-based knowledge. 
