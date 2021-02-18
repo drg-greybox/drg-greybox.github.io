@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Grey-box modelling - Dynamics Research Group
+title: Physics-informed machine learning for structural dynamics 
 show_sidebar: true
 hero_height: is-three-fifths
 
