@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Physics-informed machine learning - Dynamics Research Group
+title: Physics informed machine learning - DRG
 #tagline: test
 #link: /drgwebsite/
 email: e.j.cross@sheffield.ac.uk
