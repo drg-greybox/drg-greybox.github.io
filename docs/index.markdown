@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Physics-informed machine learning for structural dynamics 
-subtitle: Part of the Dynamics Research Group, The University of Sheffield
+title: Physics informed machine learning for structural dynamics 
+subtitle: Part of the Dynamics Research Group, University of Sheffield
 show_sidebar: true
 #hero_image: /path/to/DRG-logo.jpg
 hero_height: is-three-fifths
