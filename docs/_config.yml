@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dynamics Research Group
-tagline: test
+title: Physics-informed machine learning - Dynamics Research Group
+#tagline: test
 #link: /drgwebsite/
 email: e.j.cross@sheffield.ac.uk
 description: >
