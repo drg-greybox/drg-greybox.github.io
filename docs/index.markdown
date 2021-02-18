@@ -8,7 +8,8 @@ subtitle: Part of the Dynamics Research Group, University of Sheffield
 show_sidebar: true
 #hero_image: /path/to/DRG-logo.jpg
 hero_height: is-three-fifths
-hero_darken: true
+darken( $base-color, 10% )
+#hero_darken: true
 
 ---
 <!---
