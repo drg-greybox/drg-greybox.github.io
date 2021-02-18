@@ -4,8 +4,8 @@
 
 layout: page
 title: Physics-informed machine learning for structural dynamics 
-subtitle: test test
-#show_sidebar: true
+subtitle: Part of the Dynamics Research Group, The University of Sheffield
+show_sidebar: true
 #hero_image: /path/to/DRG-logo.jpg
 hero_height: is-three-fifths
 
