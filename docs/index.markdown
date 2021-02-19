@@ -9,6 +9,7 @@ show_sidebar: true
 #hero_image: /path/to/DRG-logo.jpg
 hero_height: is-three-fifths
 #darken( $base-color, 10% )
+background-color: rgba($hero-darken, 0.4);
 #hero_darken: true
 
 ---
