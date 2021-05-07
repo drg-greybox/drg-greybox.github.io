@@ -13,7 +13,6 @@ background-color: rgba($hero-darken, 0.3);
 
 ---
 
-filler <img style="float: left;" src="DRG-logo.jpg">
 
 <!---
 
@@ -37,4 +36,7 @@ dropdown:
       link: /page-1/
     - name: Placeholder 2
       link: /page-2/
+
+filler <img style="float: left;" src="DRG-logo.jpg">
+
 -->
