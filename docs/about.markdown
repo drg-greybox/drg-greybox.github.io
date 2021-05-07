@@ -43,7 +43,7 @@ Sikai Zhang is currently a postdoctorate research associate in the Dynamics Rese
 
 ### Gloria (Weijiang) Lin
 
-<img style="float: left;" src="gloria_pic.jpg"> Hi, I am Gloria (Weijiang) Lin, a PhD student based in Sheffield. I create Gaussian process-based, spatio-temporal models for applications in structural health monitoring (SHM). I have demonstrated how a spatio-temporal model can be used to (1) [study environmental and operational variations in population-based SHM](https://link.springer.com/chapter/10.1007/978-3-030-47717-2_31), and (2) [as a performance indicator for wind turbine farms](http://past.isma-isaac.be/downloads/isma2020/abstracts/AbstractPage_ID398.pdf). My recent interest is in physics-informed methods for spatio-temporal modelling. 
+<img style="float: left;" src="gloria_pic.jpg"; ; padding-right:10px> Hi, I am Gloria (Weijiang) Lin, a PhD student based in Sheffield. I create Gaussian process-based, spatio-temporal models for applications in structural health monitoring (SHM). I have demonstrated how a spatio-temporal model can be used to (1) [study environmental and operational variations in population-based SHM](https://link.springer.com/chapter/10.1007/978-3-030-47717-2_31), and (2) [as a performance indicator for wind turbine farms](http://past.isma-isaac.be/downloads/isma2020/abstracts/AbstractPage_ID398.pdf). My recent interest is in physics-informed methods for spatio-temporal modelling. 
 
 
 ### Dan Pitchforth
