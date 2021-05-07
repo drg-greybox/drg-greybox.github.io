@@ -1,5 +1,5 @@
 - name: About
-  link: /about_us/
+  link: about
 - name: Ongoing research
   link: /research_overview/
   dropdown:
