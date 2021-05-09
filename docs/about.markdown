@@ -12,6 +12,8 @@ hero_height: is-three-fifths
 <img style="float: left; padding-right:10px" src="lizzy_pic.jpg"> Lizzy Cross is a Professor in the Dynamics Research Group at the University of Sheffield. Before starting her lectureship in 2012, she completed a Bachelors in Mathematics (1st class), and Masters and PhD in Mechanical Engineering. She currently holds an EPRSC Innovation Fellowship on the development of grey-box models for assessing the health of structures in operation (grey-box models combine physics-based models with machine learning technology). Lizzy is a co-director of the Laboratory for Verification and Validation, a state-of-the-art dynamic testing facility
 
   <br/>
+    <br/>
+
 
 
   * [Google Scholar](https://scholar.google.co.uk/citations?user=EA8E1HIAAAAJ&hl=en)
@@ -38,27 +40,16 @@ Tim is a lecturer in the Dynamics Research Group (DRG), part of the Department o
 <img style="float: left; padding-right:10px" src="rajdip_pic.jpg">
 
 
-Rajdip is a research associate Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
-Rajdip is a research associate
+Rajdip is a research associate Rajdip in the DRG.
+
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+
 
 
   * [Google Scholar](https://scholar.google.ca/citations?user=dd5LoV4AAAAJ&hl=en)
@@ -87,29 +78,20 @@ Rajdip is a research associate
 
 ### Sam Gibson
 
-<img style="float: right; padding-left:10px" src="sam_pic.jpg"> Sam is a second year PhD student Sam is a second year PhD student 
-Sam is a second year PhD student 
-Sam is a second year PhD student 
-Sam is a second year PhD student 
-Sam is a second year PhD student 
-Sam is a second year PhD student 
-Sam is a second year PhD student 
-Sam is a second year PhD student 
-Sam is a second year PhD student 
-Sam is a second year PhD student 
-Sam is a second year PhD student 
-Sam is a second year PhD student 
-Sam is a second year PhD student 
-Sam is a second year PhD student 
-Sam is a second year PhD student 
-Sam is a second year PhD student 
-Sam is a second year PhD student 
+<img style="float: right; padding-left:10px" src="sam_pic.jpg"> Sam is a second year PhD student focused on the application of probabilistic techniques to fatigue prediction.
 
-<br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 
 ### Matt Jones
 
-<img style="float: left; padding-right:10px" src="matt_pic.jpg"> Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student Matt is a final year PhD student 
+<img style="float: left; padding-right:10px" src="matt_pic.jpg"> Matt is a final year PhD student in the DRG. His general focus is on the application of probabilistic machine learning techniques to problems arising in structural health monitoring, including damage detection and localisation. Recently, he has been interested in constraining machine learnings models with physical knowledge as a way to enhance predictive capabilities; particularly in scenarios where training data is scarce. An example of this includes constraining Gaussian processes with known boundary condition values to learn spatial maps of phenomena arising in SHM. 
+
+  <br/>
+  <br/>
 
 
   * [Google scholar](https://scholar.google.com/citations?hl=en&user=ANhFtTkAAAAJ)
@@ -127,24 +109,7 @@ Sam is a second year PhD student
 
 ### Dan Pitchforth
 
-<img style="float: left; padding-right:10px" src="dan_pic.jpg"> Dan is a second year PhD student Dan is a second year PhD student 
-Dan is a second year PhD student 
-Dan is a second year PhD student 
-Dan is a second year PhD student 
-Dan is a second year PhD student 
-Dan is a second year PhD student 
-Dan is a second year PhD student 
-Dan is a second year PhD student 
-Dan is a second year PhD student 
-Dan is a second year PhD student 
-Dan is a second year PhD student 
-Dan is a second year PhD student 
-Dan is a second year PhD student 
-Dan is a second year PhD student 
-Dan is a second year PhD student 
-Dan is a second year PhD student 
-Dan is a second year PhD student 
-Dan is a second year PhD student 
+<img style="float: left; padding-right:10px" src="dan_pic.jpg"> Dan is a second year PhD student interested in developing grey-box models for SHM.
 
 
 
