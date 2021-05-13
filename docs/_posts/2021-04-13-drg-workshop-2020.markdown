@@ -4,7 +4,6 @@ title:  "DRG workshop 2020"
 date:   2021-04-13 13:56:27 +0100
 categories: introduction
 hero_height: is-three-fifths
-
 ---
 
 # 3rd annual DRG workshop, December 2020
@@ -19,12 +18,12 @@ On the second day, Lizzy hosted a full day session on physics-informed machine l
 
 ### Physics-informed machine learning for structural dynamics, Lizzy Cross
 
-[![](blog1_img.png)](https://drive.google.com/file/d/1wC8C4r_Br1f1MrtSSv7MQhMvLxpvO-tp/view)
+[![](E:\github\drg-greybox.github.io\docs\images\blog1_img.png)](https://drive.google.com/file/d/1wC8C4r_Br1f1MrtSSv7MQhMvLxpvO-tp/view)
 
 
 ### Novel state-space approach for nonlinear dynamic systems, Tim Rogers
 
-[![](blog2_img.png)](https://drive.google.com/file/d/11z5oSW3tv07dIjnxeQ6u7j4lCo8VjyPc/view)
+[![](docs/images/blog2_img.png)](https://drive.google.com/file/d/11z5oSW3tv07dIjnxeQ6u7j4lCo8VjyPc/view)
 
 
 
