@@ -13,5 +13,5 @@ background-color: rgba($hero-darken, 0.3);
 
 ---
 
-filler <img style="float: left;" src="DRG-logo.jpg">
+<img style="float: left;" src="images/DRG-logo.jpg">
 
