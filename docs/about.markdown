@@ -33,8 +33,7 @@ ul.a {
 Dr Tim Rogers is a lecturer in the Dynamics Research Group (DRG), part of the Department of Mechanical Engineering at The University of Sheffield. He has completed both his MEng in Mechanical Engineering and his PhD at Sheffield, the title of which was "Towards Bayesian System Identification: With Application to SHM of Offshore Structures". His work focusses on application of Machine Learning and Bayesian statistical methods to problems in structural dynamics in particular those within nonlinear system identification and Structural Health Monitoring (SHM).
 
 
-  * [Google Scholar](https://scholar.google.co.uk/citations?user=k2ZHf3cAAAAJ&hl=en)
-  * [Twitter](https://twitter.com/drgTim)
+  [![](google_scholar_image.png)](https://scholar.google.co.uk/citations?user=k2ZHf3cAAAAJ&hl=en)[![](twitter_img.png)](https://twitter.com/drgTim)
 
   <br/>
 
@@ -54,19 +53,17 @@ Rajdip is a research associate in the DRG.
   <br/>
   <br/>
 
+  [![](google_scholar_image.png)](https://scholar.google.ca/citations?user=dd5LoV4AAAAJ&hl=en)
 
-
-  * [Google Scholar](https://scholar.google.ca/citations?user=dd5LoV4AAAAJ&hl=en)
 
   <br/>
-
-
 
 ### Dr Chandula Wickramarachchi
 
 <img style="float: right; padding-left:10px" src="chandy_pic.jpg"> Chandula Wickramarachchi received her EngD in Mechanical Engineering from the University of Sheffield in 2019. Her EngD focused on automated testing of advanced cutting tool materials. Since 2019, she has been working to implement databases in the context of population-based structural health monitoring to aid with maintenance and monitoring of groups of structures. Additionally, her focus is on using metrics to assess similarity of data collected from structures (using data-based methods) and of structures themselves (utilising graph kernels) to aid the transfer of information across structures to aid population-based structural health monitoring.
 
-  * [Google Scholar](https://scholar.google.co.uk/citations?user=ajqGnG4AAAAJ&hl=en)
+  [![](google_scholar_image.png)](https://scholar.google.co.uk/citations?user=ajqGnG4AAAAJ&hl=en)
+
 
   <br/>
 
@@ -97,9 +94,8 @@ Rajdip is a research associate in the DRG.
   <br/>
   <br/>
 
+[![](google_scholar_image.png)](https://scholar.google.com/citations?hl=en&user=ANhFtTkAAAAJ)[![](twitter_img.png)](https://twitter.com/mattrjones11)
 
-  * [Google scholar](https://scholar.google.com/citations?hl=en&user=ANhFtTkAAAAJ)
-  * [Twitter](https://twitter.com/mattrjones11)
 
   <br/>
 
