@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "drg workshop 2020"
+title:  "DRG workshop 2020"
 date:   2021-04-13 13:56:27 +0100
 categories: introduction
 hero_height: is-three-fifths
+summary: |-
+    Back in December 2020, the Dynamics Research Group held its 3rd annual workshop on structural dynamics - check out some of the featured talks from the group.
 ---
 
 # 3rd annual DRG workshop, December 2020
