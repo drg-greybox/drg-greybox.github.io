@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DRG workshop 2020"
+title:  "drg workshop 2020"
 date:   2021-04-13 13:56:27 +0100
 categories: introduction
 hero_height: is-three-fifths
