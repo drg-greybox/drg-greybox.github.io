@@ -23,11 +23,7 @@ ul.a {
   <br/>
     <br/>
 
-  * [Google Scholar](https://scholar.google.co.uk/citations?user=EA8E1HIAAAAJ&hl=en)
-  * [Twitter](https://twitter.com/lizzyintheDRG)
-
-
-[![](google_scholar_image)](https://scholar.google.co.uk/citations?user=EA8E1HIAAAAJ&hl=en)  [![](twitter_img.png)](https://twitter.com/lizzyintheDRG)  
+[![](google_scholar_image.png)](https://scholar.google.co.uk/citations?user=EA8E1HIAAAAJ&hl=en)  [![](twitter_img.png)](https://twitter.com/lizzyintheDRG)  
 
 
 
