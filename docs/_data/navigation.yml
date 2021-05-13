@@ -1,5 +1,5 @@
 - name: About
-  link: about
+  link: /about/
 - name: Ongoing research
   link: /research_overview/
   dropdown:
@@ -10,7 +10,7 @@
     - name: Semi-physical modelling
       link: /semiphysical_info/
 - name: Blog and talks
-  link: /blog/
+  link: blog/index
 - name: Example code
   link: /code/
 
