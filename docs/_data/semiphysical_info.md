@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Blog and talks
+title: Semi-physical modelling
 description: Blog posts
 show_sidebar: false
 hero_height: is-three-fifths
 
 ---
 
-blog posts
+Semi-physical modelling
