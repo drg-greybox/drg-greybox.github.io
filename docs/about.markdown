@@ -26,7 +26,7 @@ hero_height: is-three-fifths
 
 <img style="float: right; padding-left:10px" src="tim_pic.jpg">
 
-Tim is a lecturer in the Dynamics Research Group (DRG), part of the Department of Mechanical Engineering at The University of Sheffield. He has completed both his MEng in Mechanical Engineering and his PhD at Sheffield, the title of which was "Towards Bayesian System Identification: With Application to SHM of Offshore Structures". His work focusses on application of Machine Learning and Bayesian statistical methods to problems in structural dynamics in particular those within nonlinear system identification and Structural Health Monitoring (SHM).
+Dr Tim Rogers is a lecturer in the Dynamics Research Group (DRG), part of the Department of Mechanical Engineering at The University of Sheffield. He has completed both his MEng in Mechanical Engineering and his PhD at Sheffield, the title of which was "Towards Bayesian System Identification: With Application to SHM of Offshore Structures". His work focusses on application of Machine Learning and Bayesian statistical methods to problems in structural dynamics in particular those within nonlinear system identification and Structural Health Monitoring (SHM).
 
 
   * [Google Scholar](https://scholar.google.co.uk/citations?user=k2ZHf3cAAAAJ&hl=en)
@@ -40,7 +40,7 @@ Tim is a lecturer in the Dynamics Research Group (DRG), part of the Department o
 <img style="float: left; padding-right:10px" src="rajdip_pic.jpg">
 
 
-Rajdip is a research associate Rajdip in the DRG.
+Rajdip is a research associate in the DRG.
 
   <br/>
   <br/>
@@ -88,7 +88,7 @@ Rajdip is a research associate Rajdip in the DRG.
 
 ### Matt Jones
 
-<img style="float: left; padding-right:10px" src="matt_pic.jpg"> Matt is a final year PhD student in the DRG. His general focus is on the application of probabilistic machine learning techniques to problems arising in structural health monitoring, including damage detection and localisation. Recently, he has been interested in constraining machine learnings models with physical knowledge as a way to enhance predictive capabilities; particularly in scenarios where training data is scarce. An example of this includes constraining Gaussian processes with known boundary condition values to learn spatial maps of phenomena arising in SHM. 
+<img style="float: left; padding-right:10px" src="matt_pic.jpg"> Hey, I'm Matt and I'm a third year PhD student in the DRG. My general focus is on the application of probabilistic machine learning techniques to problems arising in structural health monitoring, including damage detection and localisation. Recently, I've been interested in constraining machine learnings models with physical knowledge as a way to enhance predictive capabilities; particularly in scenarios where training data is scarce. An example of this includes constraining Gaussian processes with known boundary condition values to learn spatial maps of phenomena arising in SHM. I have an interest in lots of sports including rugby and climbing, which is great when living in Sheffield! 
 
   <br/>
   <br/>
@@ -109,7 +109,7 @@ Rajdip is a research associate Rajdip in the DRG.
 
 ### Dan Pitchforth
 
-<img style="float: left; padding-right:10px" src="dan_pic.jpg"> Dan is a second year PhD student interested in developing grey-box models for SHM.
+<img style="float: left; padding-right:10px" src="dan_pic.jpg"> I joined the Dynamics Research Group in 2019 as a PhD student on the project “Developing grey-box models for structural dynamics: optimising the balance between physics and data-based learning”. My research interests focus on the combination of computationally inexpensive physics-based models, that may be more easily validated, with probabilistic data-based approaches. Recent work has focussed on the combination of Morison’s equation, an empirical wave loading solution, with Gaussian process NARX models to improve the performance of wave loading prediction on offshore structures. Outside work I enjoy cycling in the Peak district and playing underwater hockey – yes it’s a real sport!
 
 
 
