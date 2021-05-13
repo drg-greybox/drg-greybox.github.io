@@ -48,8 +48,7 @@ Rajdip is a research associate in the DRG.
   <br/>
   <br/>
   <br/>
-  <br/>
-  <br/>
+ 
 
   [![](google_scholar_image.png)](https://scholar.google.ca/citations?user=dd5LoV4AAAAJ&hl=en)
 
@@ -81,7 +80,6 @@ Rajdip is a research associate in the DRG.
 
 <img style="float: left; padding-right:10px" src="matt_pic.jpg"> Hey, I'm Matt and I'm a third year PhD student in the DRG. My general focus is on the application of probabilistic machine learning techniques to problems arising in structural health monitoring, including damage detection and localisation. Recently, I've been interested in constraining machine learnings models with physical knowledge as a way to enhance predictive capabilities; particularly in scenarios where training data is scarce. An example of this includes constraining Gaussian processes with known boundary condition values to learn spatial maps of phenomena arising in SHM. I have an interest in lots of sports including rugby and climbing, which is great when living in Sheffield! 
 
-  <br/>
   <br/>
 
 [![](google_scholar_image.png)](https://scholar.google.com/citations?hl=en&user=ANhFtTkAAAAJ)[![](twitter_img.png)](https://twitter.com/mattrjones11)
