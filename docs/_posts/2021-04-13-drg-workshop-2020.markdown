@@ -1,12 +1,26 @@
 ---
 layout: post
-title:  "Welcome to our page!"
-date:   2021-05-13 23:56:27 +0100
+title:  "DRG workshop 2020!"
+date:   2021-04-13 13:56:27 +0100
 categories: introduction
 hero_height: is-three-fifths
 
 ---
-Hi, and welcome to our webpage.
+Back in December 2020, the Dynamics Research Group held its 3rd annual workshop on structural dynamics (full information: https://lvv.ac.uk/lvv-events/Recordings-3rd-sheffield-workshop-on-structural-dynamics). 
+
+On the second day, Lizzy hosted a full day session on physics-informed machine learning, which included a number of great talks from members of the group, as well as the wider community. Check out the talks from Lizzy and Tim below:
+
+<br>
+
+### Physics-informed machine learning for structural dynamics, Lizzy Cross
+
+[![](blog1_img.png)](https://drive.google.com/file/d/1wC8C4r_Br1f1MrtSSv7MQhMvLxpvO-tp/view)
+
+
+### Novel state-space approach for nonlinear dynamic systems, Tim Rogers
+
+[![](blog2_img.png)](https://drive.google.com/file/d/11z5oSW3tv07dIjnxeQ6u7j4lCo8VjyPc/view)
+
 
 
 <!---
