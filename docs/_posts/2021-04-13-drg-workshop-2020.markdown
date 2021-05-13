@@ -13,7 +13,7 @@ hero_height: is-three-fifths
 
 Back in December 2020, the Dynamics Research Group held its 3rd annual workshop on structural dynamics (full information can be found [here](https://lvv.ac.uk/lvv-events/Recordings-3rd-sheffield-workshop-on-structural-dynamics))
 
-On the second day, Lizzy hosted a full day session on physics-informed machine learning, which included a number of great talks from members of the group, as well as the wider community. Check out the talks from Lizzy and Tim below:
+On the second day, Lizzy hosted a full day session on physics-informed machine learning, which included a number of great talks from members of the group, as well as the wider community. Check out the presentations from Lizzy and Tim below:
 
 <br>
 
