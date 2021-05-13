@@ -3,6 +3,8 @@ layout: post
 title:  "Welcome to our page!"
 date:   2021-05-13 23:56:27 +0100
 categories: introduction
+hero_height: is-three-fifths
+
 ---
 Hi, and welcome to our webpage.
 
