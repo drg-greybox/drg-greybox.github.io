@@ -18,7 +18,7 @@ ul.a {
 ---->
 ### Professor Lizzy Cross
 
-<img style="float: left; padding-right:10px" src="images\lizzy_pic.jpg"/> Lizzy Cross is a Professor in the Dynamics Research Group at the University of Sheffield. Before starting her lectureship in 2012, she completed a Bachelors in Mathematics (1st class), and Masters and PhD in Mechanical Engineering. She currently holds an EPRSC Innovation Fellowship on the development of grey-box models for assessing the health of structures in operation (grey-box models combine physics-based models with machine learning technology). Lizzy is a co-director of the Laboratory for Verification and Validation, a state-of-the-art dynamic testing facility
+<img style="float: left; padding-right:10px" src="images/lizzy_pic.PNG"/> Lizzy Cross is a Professor in the Dynamics Research Group at the University of Sheffield. Before starting her lectureship in 2012, she completed a Bachelors in Mathematics (1st class), and Masters and PhD in Mechanical Engineering. She currently holds an EPRSC Innovation Fellowship on the development of grey-box models for assessing the health of structures in operation (grey-box models combine physics-based models with machine learning technology). Lizzy is a co-director of the Laboratory for Verification and Validation, a state-of-the-art dynamic testing facility
 
   <br/>
   <br/>
@@ -28,7 +28,7 @@ ul.a {
 
 ### Dr Tim Rogers
 
-<img style="float: right; padding-left:10px" src="images/tim_pic.jpg">
+<img style="float: right; padding-left:10px" src="images/tim_pic.jpg"/>
 
 Dr Tim Rogers is a lecturer in the Dynamics Research Group (DRG), part of the Department of Mechanical Engineering at The University of Sheffield. He has completed both his MEng in Mechanical Engineering and his PhD at Sheffield, the title of which was "Towards Bayesian System Identification: With Application to SHM of Offshore Structures". His work focusses on application of Machine Learning and Bayesian statistical methods to problems in structural dynamics in particular those within nonlinear system identification and Structural Health Monitoring (SHM).
 
