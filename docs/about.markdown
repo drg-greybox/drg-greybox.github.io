@@ -35,8 +35,6 @@ Dr Tim Rogers is a lecturer in the Dynamics Research Group (DRG), part of the De
 
   [![](google_scholar_image.png)](https://scholar.google.co.uk/citations?user=k2ZHf3cAAAAJ&hl=en)[![](twitter_img.png)](https://twitter.com/drgTim)
 
-  <br/>
-
 
 ### Dr Rajdip Nayek
 
@@ -55,9 +53,6 @@ Rajdip is a research associate in the DRG.
 
   [![](google_scholar_image.png)](https://scholar.google.ca/citations?user=dd5LoV4AAAAJ&hl=en)
 
-
-  <br/>
-
 ### Dr Chandula Wickramarachchi
 
 <img style="float: right; padding-left:10px" src="chandy_pic.jpg"> Chandula Wickramarachchi received her EngD in Mechanical Engineering from the University of Sheffield in 2019. Her EngD focused on automated testing of advanced cutting tool materials. Since 2019, she has been working to implement databases in the context of population-based structural health monitoring to aid with maintenance and monitoring of groups of structures. Additionally, her focus is on using metrics to assess similarity of data collected from structures (using data-based methods) and of structures themselves (utilising graph kernels) to aid the transfer of information across structures to aid population-based structural health monitoring.
@@ -65,17 +60,12 @@ Rajdip is a research associate in the DRG.
   [![](google_scholar_image.png)](https://scholar.google.co.uk/citations?user=ajqGnG4AAAAJ&hl=en)
 
 
-  <br/>
-
-  
-
 ### Dr Sikai Zhang
 
 <img style="float: left; padding-right:10px" src="sikai_pic.jpg"> Sikai Zhang is currently a postdoctorate research associate in the Dynamics Research Group at the University of Sheffield. His research is about Gaussian-process-based grey-box modelling for structural health monitoring (SHM). By combining the advantage of physics-driven (white-box) and data-driven (black-box) models, the work can improve model prediction accuracy in extrapolation where the data coverage is low. The work has been successfully applied in the power curve prediction and Tamar bridge deflection prediction.
 
 <br/>
 <br/>
-
 
 ### Sam Gibson
 
@@ -95,10 +85,6 @@ Rajdip is a research associate in the DRG.
   <br/>
 
 [![](google_scholar_image.png)](https://scholar.google.com/citations?hl=en&user=ANhFtTkAAAAJ)[![](twitter_img.png)](https://twitter.com/mattrjones11)
-
-
-  <br/>
-
 
 ### Gloria (Weijiang) Lin
 
