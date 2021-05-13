@@ -6,7 +6,16 @@ show_sidebar: false
 hero_height: is-three-fifths
 
 ---
+<!---<style>
+ul.a {
+  list-style-image: url('twitter_img.png');
+}
+</style>
 
+<ul class = "a">
+  <li>Coffee</li>
+</ul>
+---->
 ### Professor Lizzy Cross
 
 <img style="float: left; padding-right:10px" src="lizzy_pic.jpg"> Lizzy Cross is a Professor in the Dynamics Research Group at the University of Sheffield. Before starting her lectureship in 2012, she completed a Bachelors in Mathematics (1st class), and Masters and PhD in Mechanical Engineering. She currently holds an EPRSC Innovation Fellowship on the development of grey-box models for assessing the health of structures in operation (grey-box models combine physics-based models with machine learning technology). Lizzy is a co-director of the Laboratory for Verification and Validation, a state-of-the-art dynamic testing facility
@@ -14,12 +23,11 @@ hero_height: is-three-fifths
   <br/>
     <br/>
 
-
-
   * [Google Scholar](https://scholar.google.co.uk/citations?user=EA8E1HIAAAAJ&hl=en)
   * [Twitter](https://twitter.com/lizzyintheDRG)
 
-  <br/>
+
+![](twitter_img.png)  ![](twitter_img.png)
 
 
 ### Dr Tim Rogers
@@ -111,12 +119,7 @@ Rajdip is a research associate in the DRG.
 
 <img style="float: left; padding-right:10px" src="dan_pic.jpg"> I joined the Dynamics Research Group in 2019 as a PhD student on the project “Developing grey-box models for structural dynamics: optimising the balance between physics and data-based learning”. My research interests focus on the combination of computationally inexpensive physics-based models, that may be more easily validated, with probabilistic data-based approaches. Recent work has focussed on the combination of Morison’s equation, an empirical wave loading solution, with Gaussian process NARX models to improve the performance of wave loading prediction on offshore structures. Outside work I enjoy cycling in the Peak district and playing underwater hockey – yes it’s a real sport!
 
-<div class ="container">
-  <ul>
-    <li>LIST ITEM 1</li>
-    <li>LIST ITEM 2</li>
-  </ul>
-</div>
+
 
 
 
