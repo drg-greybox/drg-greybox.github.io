@@ -27,7 +27,8 @@ ul.a {
   * [Twitter](https://twitter.com/lizzyintheDRG)
 
 
-![](twitter_img.png)  ![](twitter_img.png)
+[![](google_scholar_image)](https://scholar.google.co.uk/citations?user=EA8E1HIAAAAJ&hl=en)  [![](twitter_img.png)](https://twitter.com/lizzyintheDRG)  
+
 
 
 ### Dr Tim Rogers
