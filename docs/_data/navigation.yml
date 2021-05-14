@@ -4,14 +4,16 @@
   link: /research_overview/
   dropdown:
     - name: Combing phyiscs-based and machine learning models
-      link: /combining_info/
+      link: /combining_physics_ML/
     - name: Constrained machine learners 
-      link: /constrained_info/
+      link: /constrained_ML/
     - name: Semi-physical modelling
-      link: /semiphysical_info/
+      link: /semiphysical_modelling/
 #- name: Blog and talks
  # link: /blogindex/
-- name: Example code
+ -name: Papers
+   link: /papers/
+ - name: Example code
   link: /code/
 
   
