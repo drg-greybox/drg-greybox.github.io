@@ -9,8 +9,8 @@
       link: /constrained_info/
     - name: Semi-physical modelling
       link: /semiphysical_info/
-- name: Blog and talks
-  link: /blogindex/
+#- name: Blog and talks
+ # link: /blogindex/
 - name: Example code
   link: /code/
 
