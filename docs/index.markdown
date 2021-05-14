@@ -15,3 +15,4 @@ background-color: rgba($hero-darken, 0.3);
 
 <img style="float: left;" src="images/DRG-logo.jpg">
 
+he
