@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nonlinear Benchmarks workshop 2021 "
+title:  "Nonlinear benchmarks workshop 2021 "
 date:   2021-05-13 16:06:00 +0100
 categories: introduction
 hero_height: is-three-fifths
