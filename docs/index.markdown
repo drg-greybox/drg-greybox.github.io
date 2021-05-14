@@ -19,9 +19,11 @@ Physics-informed machine learning is a fast growing area of interest. Our team i
 
 <br>
 
- ![](images/sheffieldgrouplogo.jpg) 
+<p align="center">
+  <img  src="images/sheffieldgrouplogo.jpg">
+</p>
 
- <br>
+<br>
 <br>
 
  ![](images/drglogo.png) &nbsp; &nbsp; ![](images/sheffieldlogo.png)
