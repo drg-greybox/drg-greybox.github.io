@@ -11,9 +11,9 @@
       link: /semiphysical_modelling/
 #- name: Blog and talks
  # link: /blogindex/
- -name: Papers
+- name: Papers
    link: /papers/
- - name: Example code
-  link: /code/
+- name: Example code
+   link: /code/
 
   
