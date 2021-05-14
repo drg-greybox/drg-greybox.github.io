@@ -28,7 +28,7 @@ description: >
 url: "https://drg-greybox.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: twitter_placeholder
 github_username:  #https://github.com/drg-greybox
-#permalink: pretty
+permalink: pretty
 
 
 # Build settings
