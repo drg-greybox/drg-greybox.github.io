@@ -34,7 +34,7 @@ Dr Tim Rogers is a lecturer in the Dynamics Research Group (DRG), part of the De
 <img style="float: left; padding-right:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/rajdip_pic.jpg">
 
 
-Rajdip is a research associate in the DRG.
+Rajdip is a postdoctoral research associate at the Dynamics Research Group under the supervision of Dr. Keith Worden and Dr. Elizabeth Cross, currently working in the area of digitwin modelling, greybox modelling with Gaussian processes, and sparse Bayesian learning.
 
   <br/>
   <br/>
