@@ -21,7 +21,7 @@ Book Chapter
 DOI: [https://doi.org/10.1007/978-3-030-81716-9_17](https://doi.org/10.1007/978-3-030-81716-9_17)
 
 
-# Residual modelling
+# Combining physics-based and machine learning models
 
 <strong> Grey-box models for wave loading prediction </strong>
 <br />
@@ -32,6 +32,26 @@ D.J. Pitchforth, T.J. Rogers, U.T. Tygesen, E.J. Cross
 DOI: [https://doi.org/10.1016/j.ymssp.2021.107741](https://doi.org/10.1016/j.ymssp.2021.107741)
 <br />
 Open access: [https://arxiv.org/pdf/2105.13813.pdf](https://arxiv.org/pdf/2105.13813.pdf)
+
+<strong> Grey-Box Modelling via Gaussian Process Mean Functions for Mechanical Systems </strong>
+<br />
+S. Zhang, T.J. Rogers, E.J. Cross
+<br />
+<em> Data Science in Engineering, Volume 9, October 21</em> 
+<br />
+DOI: [https://doi.org/10.1007/978-3-030-76004-5_19](https://doi.org/10.1007/978-3-030-76004-5_19)
+<br />
+<!--- Open access: -->
+
+<strong> Gaussian Process Based Grey-Box Modelling for SHM of Structures Under Fluctuating Environmental Conditions</strong>
+<br />
+S. Zhang & E.J. Cross
+<br />
+<em> EWSHM 2020: European Workshop on Structural Health Monitoring, January 21</em> 
+<br />
+DOI: [https://link.springer.com/chapter/10.1007%2F978-3-030-64908-1_6](https://link.springer.com/chapter/10.1007%2F978-3-030-64908-1_6)
+<br />
+<!--- Open access: -->
 
 # Physics-informed kernels
 
@@ -56,7 +76,7 @@ M.R. Jones, T.J. Rogers, P.A. Gardner, E.J. Cross
 <br/>
 <em> ISMA 2020 - International Conference on Noise and Vibration Engineering </em>
 <br/>
-Open access:
+<!--- Open access: -->
 
 # State space models for grey-box learning
 
