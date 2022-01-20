@@ -78,6 +78,17 @@ M.R. Jones, T.J. Rogers, P.A. Gardner, E.J. Cross
 <br/>
 <!--- Open access: -->
 
+<strong> Grey-box modelling for structural health monitoring: Physical constraints on machine learning </strong>
+<br/>
+E.J. Cross, T.J. Rogers, T.J. Gibbons
+<br/>
+<em> IWSHM 2019 - International Workshop on Structural Health Monitoring </em>
+<br/>
+DOI: [http://www.dpi-proceedings.com/index.php/shm2019/article/view/32349](http://www.dpi-proceedings.com/index.php/shm2019/article/view/32349)
+<!--- Open access: -->
+
+
+
 # State space models for grey-box learning
 
 
