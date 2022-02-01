@@ -6,6 +6,7 @@ show_sidebar: false
 hero_height: is-three-fifths
 
 ---
+<!---
 
 In the Dynamics Research Group, our research interests span all things structural dynamics related. One particular interest is the development of models that can infer the health state of a structure and predict its remaining useful life, often achieved through the use of machine learning tools. The potential benefits are vast, including the possibility of informed maintenance scheduling and automated decision making. 
 
@@ -19,10 +20,6 @@ If we move to look at strain predictions made during conditions that were atypic
 <img src="./images//low_alt_flight.png" alt="drawing" width="400"/>
 
 This is because the conditions observed are different to those that were included in the training set (out-of-sample scenarios), with the data-driven model being unable to generalise.
-
-<!--- the loading that a bridge is subject to will depend upon traffic levels, whilst ambient temperature will continually vary. All of these factors will influence the dynamic behaviour of the bridge. To compensate for these effects, data used to train any predictive model must be representative of the full operational and environmental envelope, which in many applications, is impractical to collect. Where models have not been learnt on suitable training data, the inherent flexibility of black-box learners results in there being no guarantee that any predictions made are physically consistent. 
-
--->
 
 In an attempt to mitigate some of these problems, a package of work is currently being led within the group by Prof. Lizzy Cross on the use of physics-informed machine learning. The aim here is to bring together the flexibility and power of state-of-the-art machine learning techniques with more structure and insightful physics-based models that can be derived from domain expertise. By combining monitoring data with engineering insight, the objective is to develop models that can learn underlying statistical relationships, but can fall back to governing physical principles. 
 
@@ -45,8 +42,13 @@ When considering kernel-based machine learning methods such as Gaussian processe
 
 At the black end of the spectrum exists <strong>constrained machine learners</strong>. These methods constrain a machine learner with some physically-derived assumptions or laws that the predictions of the model are guaranteed to satisfy. These types of grey-box models are discussed Here.  
 
+-->
 
-<!---
+
+
+
+<!--- OLD
+
  Of particular interest is structural health monitoring (SHM), where the objective is to develop condition-based monitoring systems that assess the health of structure. For example, from some measured sensor data of a turbine blade, can I automatically detect the formation of damage and predict the remaining useful life. These are just two examples of tasks that lie within the remit of SHM, with other notable tasks including damage localisation and quantification. These tasks can be conveniently grouped into a hierarchy, where each ``level" becomes increasingly difficult.
 
  consistently vary on multiple timescales. 
