@@ -7,4 +7,4 @@ hero_height: is-three-fifths
 
 ---
 
-Constrained machine learners
+Coming soon :) 
