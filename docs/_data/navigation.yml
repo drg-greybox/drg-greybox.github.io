@@ -2,16 +2,17 @@
   link: /about/
 - name: Ongoing research
   link: /research_overview/
-  dropdown:
-    - name: Combing phyiscs-based and machine learning models
-      link: /combining_physics_ML/
-    - name: Constrained machine learners 
-      link: /constrained_ML/
-    - name: Semi-physical modelling
-      link: /semiphysical_modelling/
 - name: Papers
   link: /publications/
 #- name: Example code
 #  link: /code/
+# link: /research_overview/
+#  dropdown:
+#    - name: Combing phyiscs-based and machine learning models
+#      link: /combining_physics_ML/
+#    - name: Constrained machine learners 
+#      link: /constrained_ML/
+#    - name: Semi-physical modelling
+#      link: /semiphysical_modelling/
 
   
