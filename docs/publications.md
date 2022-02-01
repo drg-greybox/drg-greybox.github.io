@@ -92,9 +92,9 @@ Open access: [https://hal.inria.fr/hal-01022048/document](https://hal.inria.fr/h
 <br/>
 E.J. Cross & T.J. Rogers
 <br/>
-DOI: [https://doi.org/10.1016/j.ifacol.2021.08.353](https://doi.org/10.1016/j.ifacol.2021.08.353 ) 
-<br/>
 <em> IFAC Papers online, 19th IFAC Symposium on System Identification (SYSID) 2021 </em>
+<br/>
+DOI: [https://doi.org/10.1016/j.ifacol.2021.08.353](https://doi.org/10.1016/j.ifacol.2021.08.353 ) 
 <br/>
 Open access: [https://eprints.whiterose.ac.uk/178485/1/1-s2.0-S2405896321011277-main.pdf](https://eprints.whiterose.ac.uk/178485/1/1-s2.0-S2405896321011277-main.pdf)
 
@@ -131,6 +131,7 @@ T.J. Rogers, K. Worden, E.J. Cross
 <br/>
 DOI: [https://doi.org/10.3390/vibration3030020
 ](https://doi.org/10.3390/vibration3030020)
+<br/>
 Open access: [https://eprints.whiterose.ac.uk/165393/1/vibration-03-00020%20%281%29.pdf](https://eprints.whiterose.ac.uk/165393/1/vibration-03-00020%20%281%29.pdf)
 
 <strong> On the application of Gaussian process latent force models for joint input-state-parameter estimation: With a
@@ -138,11 +139,12 @@ view to Bayesian operational identification </strong>
 <br/>
 T.J. Rogers, K. Worden, E.J. Cross
 <br/>
-<em> Mechanical Systems and Signal
+<em> Mechanical Systems and Signal, 2018
 Processing </em>
 <br/>
 DOI: [https://doi.org/10.1016/j.ymssp.2019.106580
 ](https://doi.org/10.1016/j.ymssp.2019.106580)
+<br/>
 Open access: [https://eprints.whiterose.ac.uk/157049/1/mssp19_1540_accepted_manuscript.pdf](https://eprints.whiterose.ac.uk/157049/1/mssp19_1540_accepted_manuscript.pdf)
 
 
