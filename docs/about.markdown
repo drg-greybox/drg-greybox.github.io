@@ -54,14 +54,14 @@ Rajdip is a postdoctoral research associate at the Dynamics Research Group under
 
 ### Dr Sikai Zhang
 
-<img style="float: left; padding-right:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/sikai_pic.jpg"> Sikai Zhang is currently a postdoctorate research associate in the Dynamics Research Group at the University of Sheffield. His research is about Gaussian-process-based grey-box modelling for structural health monitoring (SHM). By combining the advantage of physics-driven (white-box) and data-driven (black-box) models, the work can improve model prediction accuracy in extrapolation where the data coverage is low. The work has been successfully applied in the power curve prediction and Tamar bridge deflection prediction.
+<img style="float: left; padding-right:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/sikai_pic.jpg"> Sikai Zhang is currently a postdoctoral research associate in the Dynamics Research Group at the University of Sheffield. His research is about Gaussian-process-based grey-box modelling for structural health monitoring (SHM). By combining the advantage of physics-driven (white-box) and data-driven (black-box) models, the work can improve model prediction accuracy in extrapolation where the data coverage is low. The work has been successfully applied in the power curve prediction and Tamar bridge deflection prediction.
 
 <br/>
 <br/>
 
 ### Sam Gibson
 
-<img style="float: right; padding-left:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/sam_pic.jpg"> Sam is a second year PhD student focused on the application of probabilistic techniques to fatigue prediction.
+<img style="float: right; padding-left:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/sam_pic.jpg"> Sam is a third year PhD student focused on the application of probabilistic techniques to fatigue prediction.
 
   <br/>
   <br/>
@@ -71,7 +71,7 @@ Rajdip is a postdoctoral research associate at the Dynamics Research Group under
 
 ### Matt Jones
 
-<img style="float: left; padding-right:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/matt_pic.jpg"> Hey, I'm Matt and I'm a third year PhD student in the DRG. My general focus is on the application of probabilistic machine learning techniques to problems arising in structural health monitoring, including damage detection and localisation. Recently, I've been interested in constraining machine learnings models with physical knowledge as a way to enhance predictive capabilities; particularly in scenarios where training data is scarce. An example of this includes constraining Gaussian processes with known boundary condition values to learn spatial maps of phenomena arising in SHM. I have an interest in lots of sports including rugby and climbing, which is great when living in Sheffield! 
+<img style="float: left; padding-right:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/matt_pic.jpg"> Hey, I'm Matt and I'm a research associate in the DRG. My general focus is on the application of probabilistic machine learning techniques to problems arising in structural health monitoring, including damage detection and localisation. Recently, I've been interested in constraining machine learnings models with physical knowledge as a way to enhance predictive capabilities; particularly in scenarios where training data is scarce. An example of this includes constraining Gaussian processes with known boundary condition values to learn spatial maps of phenomena arising in SHM. I have an interest in lots of sports including rugby and climbing, which is great when living in Sheffield! 
 
   <br/>
 

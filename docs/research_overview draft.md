@@ -6,7 +6,6 @@ show_sidebar: false
 hero_height: is-three-fifths
 
 ---
-<!---
 
 In the Dynamics Research Group, our research interests span all things structural dynamics related. One particular interest is the development of models that can infer the health state of a structure and predict its remaining useful life, often achieved through the use of machine learning tools. The potential benefits are vast, including the possibility of informed maintenance scheduling and automated decision making. 
 
@@ -41,27 +40,3 @@ As we progress further along the spectrum of white to black, semi-physical model
 When considering kernel-based machine learning methods such as Gaussian processes and supper-vector machines, a function that defines how similarity between data points should be measured needs to be specified. More formally, this function is defined as the kernel. We can look to encode physical insight into the form of these functions to develop <strong>physics-derived kernels</strong>, ensuring that the functions drawn from the kernel have physically-relevant structure. Papers related to this topic can be found Here. 
 
 At the black end of the spectrum exists <strong>constrained machine learners</strong>. These methods constrain a machine learner with some physically-derived assumptions or laws that the predictions of the model are guaranteed to satisfy. These types of grey-box models are discussed Here.  
-
--->
-
-
-
-
-<!--- OLD
-
- Of particular interest is structural health monitoring (SHM), where the objective is to develop condition-based monitoring systems that assess the health of structure. For example, from some measured sensor data of a turbine blade, can I automatically detect the formation of damage and predict the remaining useful life. These are just two examples of tasks that lie within the remit of SHM, with other notable tasks including damage localisation and quantification. These tasks can be conveniently grouped into a hierarchy, where each ``level" becomes increasingly difficult.
-
- consistently vary on multiple timescales. 
-
- system ID
-
-
-### Combining physics-based and machine learning models
-
-### Manipulation of black-box inputs
-
-### Physics-derived kernels
-
-### Constrained machine learners
-
--->
