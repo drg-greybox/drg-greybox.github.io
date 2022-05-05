@@ -21,12 +21,16 @@ Structures operate in a complex dynamic environment, with environmental and oper
 
 To illustrate this behaviour, let's take a look at a data-driven model (a Gaussian process) tasked with predicting bending strain on an aircraft wing during different manoeuvres to inform an in-service fatigue assessment. We use data from five different flights to train the model. When testing the model on other flights not included in the training data, most of the time the trained model is able to generalise well and make an accurate prediction of strain. The inset figure shows a prediction of a typical flight, it has very low prediction error for the majority of the time history.
 
-<img src=".https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/good_flight_pred.png" alt="drawing" width="400"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/good_flight_pred.png" alt="drawing" width="400"/>
+</p>
 
 
 If we move to look at strain predictions made during conditions that were atypical of normal flight behaviour, however, - a low altitude sortie, characterised by a very turbulent response - the model is unable to predict strain as accurately as in the previous instance. 
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/low_alt_flight.png" alt="drawing" width="400"/>
+</p>
 
 This is because the conditions observed are different to those that were included in the training set (out-of-sample scenarios), with the data-driven model being unable to generalise.
 
@@ -36,12 +40,15 @@ In an attempt to mitigate some of these problems, a package of work is currently
 
 To explore the currently available modelling approaches, we think that it is helpful to consider physics-informed (grey-box) models to be on a spectrum between purely physics-based methods (white-box) and purely data-driven learners (black-box). Publications by the group corresponding to each of these different types of grey-box architecture for structural dynamics are included Here.
 
-
-<img src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/grey_spectrum.png" alt="drawing" width="300"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/grey_spectrum.png" alt="drawing" width="400"/>
+</p>
 
 At the ``whiter" end of the spectrum are models built from governing physical equations. For example, <strong> finite element models </strong>, where differential equations that describe the phenomena of interest are numerically solved. Modelling approaches where data are used for <strong>model selection</strong> and parameter estimation fall nearby. <strong>Residual models</strong> are those that use a data-driven approach to account for the observed difference between a physical models and observed measurements, with the general form
 
+<p align="center">
 <img src="https://latex.codecogs.com/png.image?\dpi{110}&space;y&space;=&space;\underbrace{f(x)}_\text{white-box}&space;&plus;&space;\underbrace{\delta(x)&plus;\epsilon}_\text{black-box}&space;\hspace{10mm}(2)" title="y = \underbrace{f(x)}_\text{white-box} + \underbrace{\delta(x)+\epsilon}_\text{black-box} \hspace{10mm}(2)" />
+</p>
 
 where $f(x)$ is the output of the physical model, $\delta(x)$ is the model discrepancy and $\epsilon$ the noise process. The discrepancy term is
 often used to correct a miss-specified physical model, giving rise to the term ``bias
