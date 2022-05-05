@@ -39,7 +39,7 @@ To explore the currently available modelling approaches, we think that it is hel
 
 <img src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/grey_spectrum.png" alt="drawing" width="300"/>
 
-At the ``whiter" end of the spectrum are models built from governing physical equations. For example, <strong> finite element models </strong>, where differential equations that describe the phenomena of interest are numerically solved. Modelling approaches where data are used for </strong>model selection</strong> and parameter estimation fall nearby. <strong>Residual models</strong> are those that use a data-driven approach to account for the observed difference between a physical models and observed measurements, with the general form
+At the ``whiter" end of the spectrum are models built from governing physical equations. For example, <strong> finite element models </strong>, where differential equations that describe the phenomena of interest are numerically solved. Modelling approaches where data are used for <strong>model selection</strong> and parameter estimation fall nearby. <strong>Residual models</strong> are those that use a data-driven approach to account for the observed difference between a physical models and observed measurements, with the general form
 
 <img src="https://latex.codecogs.com/png.image?\dpi{110}&space;y&space;=&space;\underbrace{f(x)}_\text{white-box}&space;&plus;&space;\underbrace{\delta(x)&plus;\epsilon}_\text{black-box}&space;\hspace{10mm}(2)" title="y = \underbrace{f(x)}_\text{white-box} + \underbrace{\delta(x)+\epsilon}_\text{black-box} \hspace{10mm}(2)" />
 
