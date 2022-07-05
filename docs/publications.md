@@ -100,7 +100,7 @@ DOI: [https://doi.org/10.1016/j.ifacol.2021.08.353](https://doi.org/10.1016/j.if
 <br/>
 Open access: [https://eprints.whiterose.ac.uk/178485/1/1-s2.0-S2405896321011277-main.pdf](https://eprints.whiterose.ac.uk/178485/1/1-s2.0-S2405896321011277-main.pdf)
 
-<strong> Physical covariance functions with dynamic systems with time-dependent parameters </strong>
+<strong> Physical covariance functions for dynamic systems with time-dependent parameters </strong>
 <br/>
 M.R. Jones, T.J. Rogers & E.J. Cross
 <br/>
