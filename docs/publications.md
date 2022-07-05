@@ -17,6 +17,8 @@ Book Chapter
 <br />
 <em> Structural Health Monitoring Based on Data Science Techniques, October 21</em>
 <br />
+Open access: [https://arxiv.org/pdf/2206.15303.pdf](https://arxiv.org/pdf/2206.15303.pdf)
+<br />
 DOI: [https://doi.org/10.1007/978-3-030-81716-9_17](https://doi.org/10.1007/978-3-030-81716-9_17)
 
 
@@ -97,6 +99,15 @@ E.J. Cross & T.J. Rogers
 DOI: [https://doi.org/10.1016/j.ifacol.2021.08.353](https://doi.org/10.1016/j.ifacol.2021.08.353 ) 
 <br/>
 Open access: [https://eprints.whiterose.ac.uk/178485/1/1-s2.0-S2405896321011277-main.pdf](https://eprints.whiterose.ac.uk/178485/1/1-s2.0-S2405896321011277-main.pdf)
+
+<strong> Physical covariance functions with dynamic systems with time-dependent parameters </strong>
+<br/>
+M.R. Jones, T.J. Rogers & E.J. Cross
+<br/>
+<em> EWSHM 2023 </em>
+<br/>
+DOI: [https://doi.org/10.1007/978-3-031-07322-9_39](https://doi.org/10.1007/978-3-031-07322-9_39) 
+
 
 # Constrained machine learners
 
