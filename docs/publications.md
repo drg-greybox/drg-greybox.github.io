@@ -104,7 +104,7 @@ Open access: [https://eprints.whiterose.ac.uk/178485/1/1-s2.0-S2405896321011277-
 <br/>
 M.R. Jones, T.J. Rogers & E.J. Cross
 <br/>
-<em> EWSHM 2023 </em>
+<em> 10th European Workshop on Structural Health Monitoring (EWSHM), 2023 </em>
 <br/>
 DOI: [https://doi.org/10.1007/978-3-031-07322-9_39](https://doi.org/10.1007/978-3-031-07322-9_39) 
 
