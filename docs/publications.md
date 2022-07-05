@@ -112,6 +112,16 @@ DOI: [https://doi.org/10.1007/978-3-031-07322-9_39](https://doi.org/10.1007/978-
 # Constrained machine learners
 
 <!--- ### Journal papers -->
+
+<strong> Constraining Gaussian processes for physics-informed acoustic emission mapping
+</strong>
+<br/>
+M.R. Jones, T.J. Rogers & E.J. Cross
+<br/>
+<em> Submitted, available on arXiv </em>
+<br/>
+Open access:[https://arxiv.org/abs/2206.01495](https://arxiv.org/abs/2206.01495)
+
 <strong> Constraining Gaussian processes for grey-box acoustic emission source localisation </strong>
 <br/>
 M.R. Jones, T.J. Rogers, P.A. Gardner, E.J. Cross
@@ -129,7 +139,6 @@ E.J. Cross, T.J. Rogers, T.J. Gibbons
 DOI: [http://doi.org/10.12783/shm2019/32349
 ](http://doi.org/10.12783/shm2019/32349)
 <!--- Open access: -->
-
 
 
 # State space models for grey-box learning
