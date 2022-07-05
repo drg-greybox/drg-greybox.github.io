@@ -120,7 +120,7 @@ M.R. Jones, T.J. Rogers & E.J. Cross
 <br/>
 <em> Submitted, available on arXiv </em>
 <br/>
-Open access:[https://arxiv.org/abs/2206.01495](https://arxiv.org/abs/2206.01495)
+Open access: [https://arxiv.org/abs/2206.01495](https://arxiv.org/abs/2206.01495)
 
 <strong> Constraining Gaussian processes for grey-box acoustic emission source localisation </strong>
 <br/>
