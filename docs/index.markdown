@@ -23,6 +23,10 @@ background-color: rgba($hero-darken, 0.3);
 
 Physics-informed machine learning is a fast growing area of interest. Our team in the Dynamics Research Group at the University of Sheffield are looking at its use in structural dynamics, for structural health monitoring and system identification. These pages introduce the team and give a bit of background on our research with links to papers and presentations. 
 
+<br>
+
+![](docs/images/Dr Elizabeth_Cross_group.jpg)
+
 
 <br>
 
