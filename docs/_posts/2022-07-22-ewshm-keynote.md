@@ -14,6 +14,10 @@ summary: |-
 I was thrilled to give a keynote talk at EWHSM2022 on physics-informed machine learning for Structural Health Monitoring. 
 It was a great conference and so good to see so many people again. 
 
+
+![Keynote talk](https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/keynote.png)
+
+
 In the talk I outlined the motivation for wanting to try and put some physics back into our much loved data-driven algorithms and 
 gave a bit of an overview of the group's work - which you can read more about in these webpages! 
 
