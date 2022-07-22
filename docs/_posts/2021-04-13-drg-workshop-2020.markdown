@@ -20,7 +20,7 @@ On the second day, Lizzy hosted a full day session on physics-informed machine l
 
 ### Physics-informed machine learning for structural dynamics, Lizzy Cross
 
- [![](https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/blog1_img.jpg)](https://drive.google.com/file/d/1wC8C4r_Br1f1MrtSSv7MQhMvLxpvO-tp/view)
+ [![](https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/blog1_img.png)](https://drive.google.com/file/d/1wC8C4r_Br1f1MrtSSv7MQhMvLxpvO-tp/view)
 
 
 ### Novel state-space approaches for nonlinear dynamic systems, Tim Rogers
