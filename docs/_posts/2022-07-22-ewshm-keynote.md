@@ -30,6 +30,6 @@ that trying to think in this way might help to point to which model architecture
 really nicely into this space! (see second picture inset). Check out the presentation slides if you would like to see more and watch this space for a 
 more formal exploration of whether this makes sense...
 
-![Keynote talk](https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/keynote_slides.jpg)
+![Keynote slides](https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/keynote_slides.jpg)
 
 
