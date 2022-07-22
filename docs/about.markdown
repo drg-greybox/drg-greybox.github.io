@@ -31,7 +31,7 @@ Dr Tim Rogers is a lecturer in the Dynamics Research Group (DRG), part of the De
   
  ### Dr Mate Toth
   
-<img style="float: right; padding-left:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/matetothdrg.jpg" width="200"/>I came to Sheffield in 2015 to pursue a PhD in machining dynamics. My research focussed on optimising grinding processes by finding and exploiting as yet unexplored areas of stable, chatter-free operation. I am currently a postdoctoral research associate working on cutting tool life prediction. I use physics-informed machine learning, primarily Gaussian processes and particle filters, to model tool wear progression and estimate remaining useful life. In my free time I enjoy hanging out with my family and friends, meeting new people from around the world, and trying new restaurants.
+<img style="float: right; padding-left:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/matetothdrg.jpg" width="200" length="200"/> I came to Sheffield in 2015 to pursue a PhD in machining dynamics. My research focussed on optimising grinding processes by finding and exploiting as yet unexplored areas of stable, chatter-free operation. I am currently a postdoctoral research associate working on cutting tool life prediction. I use physics-informed machine learning, primarily Gaussian processes and particle filters, to model tool wear progression and estimate remaining useful life. In my free time I enjoy hanging out with my family and friends, meeting new people from around the world, and trying new restaurants.
 
 
 ### Matt Jones
