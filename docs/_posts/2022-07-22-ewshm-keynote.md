@@ -28,5 +28,8 @@ formulate this discussion by thinking about where any given problem sits in term
 data (see picture inset). Where do you think your modelling problem lies in this space? Clearly there is no absolute answer or measure but I think 
 that trying to think in this way might help to point to which model architecture might be the most suitable - the spectrum of models available maps 
 really nicely into this space! (see second picture inset). Check out the presentation slides if you would like to see more and watch this space for a 
-more formal exploration of whether this makes sense....
+more formal exploration of whether this makes sense...
+
+![Keynote talk](https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/keynote_slides.jpg)
+
 
