@@ -25,8 +25,7 @@ Physics-informed machine learning is a fast growing area of interest. Our team i
 
 <br>
 
-![](raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/Dr Elizabeth_Cross_group.jpg)
-
+ [![](https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/Dr Elizabeth_Cross_group.jpg)]
 
 <br>
 
