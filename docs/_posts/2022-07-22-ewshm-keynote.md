@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Lizzy Cross keynote EWSHM 2022"
+title:  "Lizzy Cross gives keynote at EWSHM 2022"
 date:   2022-07-22 12:00:00 +0100
 categories: introduction
 hero_height: is-three-fifths
 summary: |-
-    Lizzy Cross recently gave a keynote talk at the 10th European Workshop on Structural Health Monitoring. 
+    Lizzy Cross recently gave a keynote talk at the 10th European Workshop on Structural Health Monitoring In Palermo, Italy. 
 ---
 ---
 # Keynote presentation for the 10th European Workshop on Structural Health Monitoring, 2022
-
 
 I was thrilled to give a keynote talk at EWHSM2022 on physics-informed machine learning for Structural Health Monitoring. 
 It was a great conference and so good to see so many people again. 
