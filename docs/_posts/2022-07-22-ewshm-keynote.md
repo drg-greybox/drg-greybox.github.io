@@ -14,7 +14,7 @@ summary: |-
 I was thrilled to give a keynote talk at EWHSM2022 on physics-informed machine learning for Structural Health Monitoring. 
 It was a great conference and so good to see so many people again. 
 
-<img src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/keynote1.jpg" alt="drawing" width="750"/>
+<img src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/keynote1.jpg" alt="drawing" width="450"/>
 
 In the talk I outlined the motivation for wanting to try and put some physics back into our much loved data-driven algorithms and 
 gave a bit of an overview of the group's work - which you can read more about in these webpages! 
@@ -28,7 +28,7 @@ that trying to think in this way might help to point to which model architecture
 really nicely into this space! (see picture below + in slides). Check out the presentation [slides](https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/blob/master/docs/resources/EWSHM_keynote_22_to_share.pdf) if you would like to see more and watch this space for a 
 more formal exploration of whether this makes sense...
 
-<img src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/keynote_slides.jpg" alt="drawing" width="750"/>
+#<img src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/keynote_slides.jpg" alt="drawing" width="750"/>
 
 
 
