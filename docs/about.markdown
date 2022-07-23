@@ -87,9 +87,6 @@ Dr Tim Rogers is a lecturer in the Dynamics Research Group (DRG), part of the De
 Rajdip was a postdoctoral research associate at the Dynamics Research Group under the supervision of Keith Worden and Elizabeth Cross, working in the area of digitwin modelling, greybox modelling with Gaussian processes, and sparse Bayesian learning. He is now an Assistant Professor at IIT Delhi.
 
 <br/>
-<br/>
-
-[![](images/google_scholar_image.png)](https://scholar.google.ca/citations?user=dd5LoV4AAAAJ&hl=en)
   
 ### Dr Sikai Zhang
 
