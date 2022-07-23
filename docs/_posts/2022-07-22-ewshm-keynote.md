@@ -24,8 +24,7 @@ gave a bit of an overview of the group's work - which you can read more about in
 
 I showed a spectrum of white to black-box models with examples across it (the book chapter on the publications page is a good place to read about these examples) 
 before talking about ongoing and future challenges. For me two of these are model validation and getting that balance right between the physics and data-based 
-components of your model. For the former I showed off some work going on at our lab (check out [lvv.ac.uk](https://lvv.ac.uk) and for the latter I started to try and 
-formulate this discussion by thinking about where any given problem sits in terms of balancing evidence from physical insight and evidence from 
+components of your model. For the former I showed off some work going on at our amazing lab (check out [lvv.ac.uk](https://lvv.ac.uk)) and for the latter I started to try and formulate this discussion by thinking about where any given problem sits in terms of balancing evidence from physical insight and evidence from 
 data. 
 
 <p align="center">
