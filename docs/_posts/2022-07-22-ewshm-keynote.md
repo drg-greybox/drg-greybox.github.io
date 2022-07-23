@@ -44,7 +44,7 @@ If you want to see more, check out the presentation [slides](https://raw.githubu
 more formal exploration of whether this makes sense...
 
 <!---
-<img src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/keynote_slides.jpg" alt="drawing" width="450"/>
+<img src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/keynote_slides.jpg" alt="drawing" width="550"/>
 -->
 
 
