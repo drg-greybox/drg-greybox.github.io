@@ -39,7 +39,7 @@ really nicely into this space!
 <img src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/knowledge_v_data_spectrum.jpg" alt="drawing" width="450"/>
 </p> 
 
-If you want to see more, check out the presentation [slides](https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/blob/master/docs/resources/EWSHM_keynote_22_to_share.pdf) and watch this space for a 
+If you want to see more, check out the [presentation slides](https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/blob/master/docs/resources/EWSHM_keynote_22_to_share.pdf) and watch this space for a 
 more formal exploration of whether this makes sense...
 
 <!---
