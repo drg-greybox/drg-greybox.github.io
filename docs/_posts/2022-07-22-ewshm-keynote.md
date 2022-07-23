@@ -28,7 +28,7 @@ components of your model. For the former I showed off some work going on at our 
 data. 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/knowledge_v_data.jpg" alt="drawing" width="450"/>
+<img src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/knowledge_v_data.jpg" alt="drawing" width="400"/>
 </p> 
 
 Where do you think your modelling problem lies in this space? Clearly there is no absolute answer or measure but I think 
