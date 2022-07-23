@@ -36,7 +36,7 @@ that trying to think in this way might help to point to which model architecture
 really nicely into this space! 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/knowledge_v_data_spectrum.jpg" alt="drawing" width="450"/>
+<img src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/knowledge_v_data_spectrum.jpg" alt="drawing" width="350"/>
 </p> 
 
 If you want to see more, check out the presentation [slides](https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/blob/master/docs/resources/EWSHM_keynote_22_to_share.pdf) and watch this space for a 
