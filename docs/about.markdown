@@ -13,6 +13,8 @@ hero_height: is-three-fifths
 
 Lizzy Cross is a Professor in the Dynamics Research Group at the University of Sheffield. Before starting her lectureship in 2012, she completed a Bachelors in Mathematics (1st class), and Masters and PhD in Mechanical Engineering. She currently holds an EPRSC Innovation Fellowship on the development of grey-box models for assessing the health of structures in operation (grey-box models combine physics-based models with machine learning technology). Lizzy is a co-director of the Laboratory for Verification and Validation, a state-of-the-art dynamic testing facility
 
+<br/>
+
 [![](images/google_scholar_image.png)](https://scholar.google.co.uk/citations?user=EA8E1HIAAAAJ&hl=en)[![](https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/twitter_img.png)](https://twitter.com/lizzyintheDRG) 
 
 ### Dr Tim Rogers
@@ -22,6 +24,8 @@ Lizzy Cross is a Professor in the Dynamics Research Group at the University of S
 Dr Tim Rogers is a lecturer in the Dynamics Research Group (DRG), part of the Department of Mechanical Engineering at The University of Sheffield. He has completed both his MEng in Mechanical Engineering and his PhD at Sheffield, the title of which was "Towards Bayesian System Identification: With Application to SHM of Offshore Structures". His work focusses on application of Machine Learning and Bayesian statistical methods to problems in structural dynamics in particular those within nonlinear system identification and Structural Health Monitoring (SHM).
 
 [![](images/google_scholar_image.png)](https://scholar.google.co.uk/citations?user=k2ZHf3cAAAAJ&hl=en)[![](https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/twitter_img.png)](https://twitter.com/drgTim)
+
+<br/>
 
 ### Dr Chandula Wickramarachchi
 
@@ -33,6 +37,7 @@ Dr Tim Rogers is a lecturer in the Dynamics Research Group (DRG), part of the De
   
 <img style="float: right; padding-left:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/matetothdrg.jpg" width="200" length="200"/> I came to Sheffield in 2015 to pursue a PhD in machining dynamics. My research focussed on optimising grinding processes by finding and exploiting as yet unexplored areas of stable, chatter-free operation. I am currently a postdoctoral research associate working on cutting tool life prediction. I use physics-informed machine learning, primarily Gaussian processes and particle filters, to model tool wear progression and estimate remaining useful life. In my free time I enjoy hanging out with my family and friends, meeting new people from around the world, and trying new restaurants.
 
+<br/>
 
 ### Matt Jones
 
