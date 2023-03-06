@@ -30,9 +30,9 @@ Physics-informed machine learning is a fast growing area of interest. Our team i
 </p> -->
 
 <p align="center">
-<img  src="images/bridge.png">
+<img  src="images/bridge_resize.png">
 <img  src="images/wave.png">
-<img  src="images/plane.png">
+<img  src="images/plane_resize.png">
 </p> 
 
 <br>
