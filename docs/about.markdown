@@ -3,8 +3,8 @@ layout: page
 title: About us
 description: Meet the members of the group
 show_sidebar: false
-hero_height: is-one-fifths
-hero_darken: true
+hero_height: is-small
+hero_darken: false
 
 ---
 
