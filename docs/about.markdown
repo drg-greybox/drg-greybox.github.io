@@ -9,7 +9,7 @@ hero_height: is-three-fifths
 
 ### Professor Lizzy Cross
 
-<img style="float: left; padding-right:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/lizzy_pic.jpg">
+<img style="float: left; padding-right:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/test.png">
 
 Lizzy Cross is a Professor in the Dynamics Research Group at the University of Sheffield. Before starting her lectureship in 2012, she completed a Bachelors in Mathematics (1st class), and Masters and PhD in Mechanical Engineering. She currently holds an EPRSC Innovation Fellowship on the development of grey-box models for assessing the health of structures in operation (grey-box models combine physics-based models with machine learning technology). Lizzy is a co-director of the Laboratory for Verification and Validation, a state-of-the-art dynamic testing facility
 
