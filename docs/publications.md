@@ -90,6 +90,17 @@ Open access: [https://hal.inria.fr/hal-01022048/document](https://hal.inria.fr/h
 
 <!--- ### Conference papers -->
 
+<strong>Incorporation of partial physical knowledge within Gaussian processes</strong>
+<br/> D.J. Pitchforth, T.J. Rogers, U.T. Tygesen & E.J. Cross
+<br/> <em> In Proceedings of the 30th International Conference on
+Noise and Vibration Engineering (ISMA-USD 2022), 2022</em>
+
+<strong>Integrating Physical Knowledge into Gaussian Process Regression Models for Probabilistic Fatigue Assessment</strong>
+<br/> S.J. Gibson, T.J. Rogers, & E.J. Cross
+<br/><em>10th European Workshop on Structural Health Monitoring (EWSHM), 2023</em>
+<br/>DOI: [https://doi.org/10.1007/978-3-031-07322-9_48](https://doi.org/10.1007/978-3-031-07322-9_48)
+
+
 <strong> Physics-derived covariance functions for machine learning in structural dynamics </strong>
 <br/>
 E.J. Cross & T.J. Rogers
@@ -118,9 +129,9 @@ DOI: [https://doi.org/10.1007/978-3-031-07322-9_39](https://doi.org/10.1007/978-
 <br/>
 M.R. Jones, T.J. Rogers & E.J. Cross
 <br/>
-<em> Submitted, available on arXiv </em>
+<em> Mechanical Systems and Signal Processing, 2023 </em>
 <br/>
-Open access: [https://arxiv.org/abs/2206.01495](https://arxiv.org/abs/2206.01495)
+Open access: [https://www.sciencedirect.com/science/article/pii/S0888327022010524](https://www.sciencedirect.com/science/article/pii/S0888327022010524)
 
 <strong> Constraining Gaussian processes for grey-box acoustic emission source localisation </strong>
 <br/>
@@ -159,8 +170,7 @@ view to Bayesian operational identification </strong>
 <br/>
 T.J. Rogers, K. Worden, E.J. Cross
 <br/>
-<em> Mechanical Systems and Signal, 2018
-Processing </em>
+<em> Mechanical Systems and Signal Processing, 2018</em>
 <br/>
 DOI: [https://doi.org/10.1016/j.ymssp.2019.106580
 ](https://doi.org/10.1016/j.ymssp.2019.106580)
