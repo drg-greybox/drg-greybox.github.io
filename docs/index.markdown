@@ -14,7 +14,7 @@ layout: page
 title: Physics-informed machine learning for structural dynamics 
 show_sidebar: true
 #hero_image: /path/to/DRG-logo.jpg
-hero_height: is-three-fifths
+hero_height: is-small
 #darken( $base-color, 10% )
 background-color: rgba($hero-darken, 0.3);
 #hero_darken: true
