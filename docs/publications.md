@@ -45,16 +45,26 @@ DOI: [https://doi.org/10.1007/978-3-030-76004-5_19](http://dx.doi.org/10.1007/97
 <!--- Open access: -->
 
 <strong> Gaussian Process Based Grey-Box Modelling for SHM of Structures Under Fluctuating Environmental Conditions</strong>
-<br />
+<br/>
 S. Zhang & E.J. Cross
-<br />
+<br/>
 <em> EWSHM 2020: European Workshop on Structural Health Monitoring, January 21</em> 
 <br />
 DOI: [https://doi.org/10.1007/978-3-030-64908-1_6](https://doi.org/10.1007/978-3-030-64908-1_6)
 <br />
+
 <!--- Open access: -->
 
 # Semi-physical modelling
+
+<strong>Distributions of fatigue damage from data-driven
+strain prediction using Gaussian process regression</strong>
+<br/>
+S.J. Gibson, T.J. Rogers & E.J. Cross
+<br/>
+<em>Structural Health Monitoring, 2023</em>
+Open access: [https://journals.sagepub.com/doi/full/10.1177/14759217221140080](https://journals.sagepub.com/doi/full/10.1177/14759217221140080)
+
 
 <strong> On evolutionary system identification with applications to nonlinear benchmarks </strong>
 <br />

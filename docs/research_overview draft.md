@@ -3,7 +3,7 @@ layout: page
 title: Research overview
 description: Our research interests
 show_sidebar: false
-hero_height: is-three-fifths
+hero_height: is-small
 
 ---
 
