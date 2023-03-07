@@ -31,7 +31,7 @@ Dr Tim Rogers is a lecturer in the Dynamics Research Group (DRG), part of the De
 
 ### Dr Chandula Wickramarachchi
 
-<img style="float: left; padding-right:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/chandy_pic.jpg"> Chandula Wickramarachchi received her EngD in Mechanical Engineering from the University of Sheffield in 2019. Her EngD focused on automated testing of advanced cutting tool materials. Since 2019, she has been working to implement databases in the context of population-based structural health monitoring to aid with maintenance and monitoring of groups of structures. Additionally, her focus is on using metrics to assess similarity of data collected from structures (using data-based methods) and of structures themselves (utilising graph kernels) to aid the transfer of information across structures to aid population-based structural health monitoring.
+<img style="float: left; padding-right:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/chandy.png"> Chandula Wickramarachchi received her EngD in Mechanical Engineering from the University of Sheffield in 2019. Her EngD focused on automated testing of advanced cutting tool materials. Since 2019, she has been working to implement databases in the context of population-based structural health monitoring to aid with maintenance and monitoring of groups of structures. Additionally, her focus is on using metrics to assess similarity of data collected from structures (using data-based methods) and of structures themselves (utilising graph kernels) to aid the transfer of information across structures to aid population-based structural health monitoring.
 
 <br/>
 <br/>
