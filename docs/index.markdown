@@ -167,7 +167,7 @@ function showSlides() {
 
 
 <p align="center">
-<img  src="images/drg-logo_resize.png">
+<img  src="images/drg-logo.png">
 <img  src="images/sheffieldlogo.png">
 </p> 
 

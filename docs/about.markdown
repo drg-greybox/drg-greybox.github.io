@@ -48,7 +48,7 @@ Dr Tim Rogers is a lecturer in the Dynamics Research Group (DRG), part of the De
 
 ### Matt Jones
 
-<img style="float: left; padding-right:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/matt_pic.jpg"> Hey, I'm Matt and I'm a research associate in the DRG. My general focus is on the application of probabilistic machine learning techniques to problems arising in structural health monitoring, including damage detection and localisation. Recently, I've been interested in constraining machine learnings models with physical knowledge as a way to enhance predictive capabilities; particularly in scenarios where training data is scarce. An example of this includes constraining Gaussian processes with known boundary condition values to learn spatial maps of phenomena arising in SHM. I have an interest in lots of sports including rugby and climbing, which is great when living in Sheffield! 
+<img style="float: left; padding-right:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/matt_pic.jpg"> Hey, I'm Matt and I'm a research associate in the DRG. My general focus is on the application of probabilistic machine learning techniques to problems arising in structural health monitoring, including damage detection and localisation. Recently, I've been interested in constraining machine learnings models with physical knowledge as a way to enhance predictive capabilities; particularly in scenarios where training data is scarce. An example of this includes constraining Gaussian processes with known boundary condition values to learn spatial maps of phenomena arising in SHM. I have an interest in lots of sports including rugby and climbing, which is great when living in Sheffield! You can find my personal research page [here](https://matthewrhysjones.github.io/). 
 
 <br/>
 
@@ -70,6 +70,8 @@ Dr Tim Rogers is a lecturer in the Dynamics Research Group (DRG), part of the De
 <br/>
 <br/>
 <br/>
+<br/>
+
 
 ### Dan Pitchforth
 
@@ -86,12 +88,17 @@ Dr Tim Rogers is a lecturer in the Dynamics Research Group (DRG), part of the De
 <img style="float: left; padding-right:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/rajdip_pic.jpg">
 
 
-Rajdip was a postdoctoral research associate at the Dynamics Research Group under the supervision of Keith Worden and Elizabeth Cross, working in the area of digitwin modelling, greybox modelling with Gaussian processes, and sparse Bayesian learning. He is now an Assistant Professor at IIT Delhi.
+Rajdip was a postdoctoral research associate at the Dynamics Research Group under the supervision of Keith Worden and Elizabeth Cross, working in the area of digitwin modelling, greybox modelling with Gaussian processes, and sparse Bayesian learning. He is now an Assistant Professor at IIT Delhi, and you can find his site [here](https://sites.google.com/view/rajdip-nayek/home).
 
+<br/>
+<br/>
+<br/>
 <br/>
   
 ### Dr Sikai Zhang
 
-<img style="float: left; padding-right:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/sikai_pic.jpg"> Sikai Zhang was a postdoctoral research associate in the DRG.
+<img style="float: left; padding-right:10px" src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/sikai_pic.jpg"> 
+
+Sikai was a postdoctoral research associate in the DRG.
 
 
