@@ -86,7 +86,7 @@ img {vertical-align: middle;}
 /* Fading animation */
 .fade {
   animation-name: fade;
-  animation-duration: 5s;
+  animation-duration: 1s;
 }
 @keyframes fade {
   from {opacity: .4} 
@@ -107,19 +107,19 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="images/surfaces.png">
+  <img src="images/spectrum.png">
   <div class="text">test1</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="images/spectrum.png">
+  <img src="images/wave.png">
   <div class="text">test2</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="images/drg-logo_resize.png">
+  <img src="images/plane_resize.png">
   <div class="text">test3</div>
 </div>
 
