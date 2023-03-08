@@ -107,19 +107,25 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <!-- <div class="numbertext">1 / 3</div> -->
+  <p align="center">
   <img src="images/spectrum.png">
+  </p>
   <!-- <div class="text">test1</div> -->
 </div>
 
 <div class="mySlides fade">
   <!-- <div class="numbertext">2 / 3</div> -->
+  <p align="center">
   <img src="images/wave.png">
+  </p>
   <!-- <div class="text">test2</div> -->
 </div>
 
 <div class="mySlides fade">
   <!-- <div class="numbertext">3 / 3</div> -->
+  <p align="center">
   <img src="images/plane.png">
+  </p>
   <!-- <div class="text">test3</div> -->
 </div>
 
