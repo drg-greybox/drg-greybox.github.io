@@ -56,7 +56,7 @@ body {font-family: Verdana, sans-serif;}
 img {vertical-align: middle;}
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 350px;
   position: relative;
   margin: auto;
 }
@@ -94,7 +94,7 @@ img {vertical-align: middle;}
 /* Fading animation */
 .fade {
   animation-name: fade;
-  animation-duration: 1.5s;
+  animation-duration: 5s;
 }
 @keyframes fade {
   from {opacity: .4} 
@@ -115,19 +115,19 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="images/surfaces.png" style="width:100%">
+  <img src="images/surfaces.png">
   <div class="text">test1</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="images/spectrum.png" style="width:100%">
+  <img src="images/spectrum.png">
   <div class="text">test2</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="images/drg-logo_resize.png" style="width:100%">
+  <img src="images/drg-logo_resize.png">
   <div class="text">test3</div>
 </div>
 
