@@ -43,7 +43,7 @@ Physics-informed machine learning is a fast growing area of interest. Our team i
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box;}
-body {font-family: Verdana, sans-serif;}
+body {font-family: Ubuntu, sans-serif;}
 .mySlides {display: none;}
 img {vertical-align: middle;}
 /* Slideshow container */
