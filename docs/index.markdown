@@ -29,22 +29,14 @@ Physics-informed machine learning is a fast growing area of interest. Our team i
 <img  src="https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/elizabeth_cross_group.jpg">
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
 <img  src="images/surfaces.png">
 <img  src="images/spectrum.png">
-</p> 
+</p>  -->
 
 <!-- <img  src="images/plane_resize.png"> -->
 
 <!-- <img  src="images/wave.png"> -->
-
-
-<br>
-
-<p align="center">
-<img  src="images/drg-logo_resize.png">
-<img  src="images/sheffieldlogo.png">
-</p> 
 
 <html>
 <head>
@@ -108,8 +100,8 @@ img {vertical-align: middle;}
 </head>
 <body>
 
-<h2>Automatic Slideshow</h2>
-<p>Change image every 2 seconds:</p>
+<!-- <h2>Automatic Slideshow</h2> -->
+<!-- <p>Change image every 2 seconds:</p> -->
 
 <div class="slideshow-container">
 
@@ -158,10 +150,18 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 2000); // Change image every 2 seconds
+  setTimeout(showSlides, 5000); // Change image every 2 seconds
 }
 </script>
 
 </body>
 </html> 
+
+<br><br><br><br>
+
+
+<p align="center">
+<img  src="images/drg-logo_resize.png">
+<img  src="images/sheffieldlogo.png">
+</p> 
 
