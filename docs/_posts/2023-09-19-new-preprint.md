@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New pre-print"
+title:  "New pre-print from the group!"
 date:   2023-09-19 12:00:00 +0100
 categories: introduction
 author: Matt Jones
