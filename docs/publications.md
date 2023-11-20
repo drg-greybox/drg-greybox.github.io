@@ -9,6 +9,19 @@ hero_height: is-small
 
 # Overviews of grey-box models
 
+<strong>A spectrum of physics-informed Gaussian processes for regression in engineering
+</strong>
+<br />
+E.J. Cross, T.J. Rogers, D.J. Pitchforth, S.J. Gibson & M.R. Jones
+<br />
+preprint (submitted)
+<br />
+<em> arXiv, September 23</em>
+<br />
+Open access: [https://arxiv.org/abs/2309.10656](https://arxiv.org/abs/2309.10656)
+<br />
+<!-- DOI: [https://doi.org/10.1007/978-3-030-81716-9_17](https://doi.org/10.1007/978-3-030-81716-9_17) -->
+
 <strong>Physics-informed machine learning for structural health monitoring</strong>
 <br />
 E.J. Cross, S.J. Gibson, M.R. Jones, D.J. Pitchforth, S. Zhang, T.J. Rogers

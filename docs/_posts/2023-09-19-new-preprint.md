@@ -7,7 +7,6 @@ author: Matt Jones
 hero_height: is-three-fifths
 summary: |-
     We have released a new pre-print: A spectrum of physics-informed Gaussian processes for regression in engineering.
-. 
 ---
 ---
 **arXiV link:** https://arxiv.org/abs/2309.10656
