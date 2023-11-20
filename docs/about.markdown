@@ -36,7 +36,7 @@ Dr Tim Rogers is a lecturer in the Dynamics Research Group (DRG), part of the De
 
 <br/>
 
-[![](images/google_scholar_image.png)](https://scholar.google.com/citations?hl=en&user=ANhFtTkAAAAJ)[![](https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/twitter_img.png)](https://twitter.com/mattrjones11)
+[![](images/google_scholar_image.png)](https://scholar.google.com.tw/citations?user=BIC1_BIAAAAJ&hl=en)[![](https://raw.githubusercontent.com/drg-greybox/drg-greybox.github.io/master/docs/images/twitter_img.png)](https://twitter.com/mattrjones11)
 
 <br/>
 
